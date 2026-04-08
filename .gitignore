@@ -5,3 +5,6 @@ node_modules
 *.log
 .DS_Store
 !.vscode/launch.json
+
+# direnv
+.direnv/
